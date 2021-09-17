@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahmanandas
+- 👋 Hello there, my name is Nanda
 - 👀 I’m interested in IOS thing, an automotive and Japan culture
 - 🌱 I’m currently learning Internet of Things
 - 💞️ I’m looking to collaborate with Tokopedia and Shopee!
