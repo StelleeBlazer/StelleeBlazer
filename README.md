@@ -1,8 +1,8 @@
 - 👋 Hello there, my name is Nanda
 - 👀 I’m interested in IOS thing, an automotive, doing some photograph and love the Japan culture
-- 🌱 I’m currently learning the IOS 
+- 🌱 I’m currently learning the IOS.
 - 💞️ I’m looking to collaborate with Tokopedia and Shopee!
-- 📫 How to reach me? hit me on instagram 
+- 📫 How to reach me? If you can :3
 
 <!---
 rahmanandas/rahmanandas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
