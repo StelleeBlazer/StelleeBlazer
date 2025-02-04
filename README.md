@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOS thing, 3D modelling, automotive, a photograph and the Japan culture!
 - 🌱 I’m currently learning the Blender
 - 💞️ I’m looking to collaborate with Automotive, Restaurant and Furniture Company
-- 📫 How to reach me? Hit me @sevenhundredyen on Instagram :D
+- 📫 How to reach me? Hit me @nandamitsuketa on Instagram :D
 
 <!---
 rahmanandas/rahmanandas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
