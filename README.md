@@ -40,9 +40,7 @@
 
 ---
 
-### 🎵 Now Playing on Spotify
 
-[![Spotify](https://novatorem-git-main-nandas-projects-8cd5f319.vercel.app/api/spotify)](https://open.spotify.com/user/huvx2jl41c1rlzg8a9hrey0u4)
 
 Thanks for visiting! 🚀
 
