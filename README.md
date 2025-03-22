@@ -9,9 +9,19 @@
 🔹 Currently immersing myself in the fascinating realm of **Artificial Intelligence**.  
 🔹 Eager to collaborate on captivating **Automotive and Art** projects. 
 
+https://github.com/user-attachments/assets/81b5c66e-9d33-4ee4-bd3a-bbba16dc3c65
 
-https://github.com/user-attachments/assets/8830e76d-f069-4e66-978b-bf1a84e92bed
+  <p align="center">
+    Take your time to immerse yourself in the artistry of a pianist from TikTok, known by the username <strong>re____1215</strong>. The piece performed is originally composed by <strong>Fujii Kaze</strong>, titled <strong>満ちてゆく (Michi Teyu Ku/Overflowing)</strong>. This composition paints a poignant yet empowering picture of the cycle of love, life, and acceptance. It embraces the inevitable truth that even the most profound feelings of love must eventually face transformation, and at times, even come to an end. Yet, despite the seemingly transient nature of life, we find solace and joy in the mere act of existence.
+    <br><br>
+    Of course, my passions extend beyond the realm of technology! Music holds a special place in my heart, and I aspire to one day master the piano, playing melodies that resonate with my soul. My curiosity, however, is not confined solely to music—I am equally captivated by the world of art. Art, in its boundless essence, holds immeasurable value and seamlessly intertwines with various disciplines, including technology.
+    <br><br>
+    Lastly, a passion I have nurtured since the tender age of three is my love for the automotive world. As time has passed, this passion has proven to be an inseparable part of my identity. Among all facets of the automotive industry, my focus has always gravitated towards <strong>cars</strong>, a fascination deeply ingrained in me for reasons beyond mere explanation.
+    <br><br>
+    To conclude, I leave you with a quote inspired by the song title of <strong>Yoasobi</strong>—<strong>夜に駆ける (Yoru ni Kakeru/Running Towards the Night)</strong>. While its official interpretation may differ, I perceive it as a profound reminder that, regardless of our circumstances, we must continue running towards a brighter future—even if the journey unfolds in the midst of the darkest night.
+  </p>
 
+</div>
 
 
 ---
