@@ -1,11 +1,11 @@
 ![Banner](https://github.com/user-attachments/assets/4e3b0a8d-6005-4d19-98dc-526ebaf82399)
 
 
-# 👋 Hello there, I'm Nanda!
+👋 Greetings, I'm Nanda!
 
-🔹 I'm passionate about **iOS Development, 3D Modeling, Automotive, Photography, and Japanese Culture**.  
-🔹 Currently learning **Artificial Intelligence**.  
-🔹 Looking to collaborate in **Automotive and Art** projects.  
+🔹 Enthralled by iOS Development, 3D Modelling, Automotive, Photography, and Japanese Culture—a seamless blend of technology, artistry, and heritage.
+🔹 Currently immersing myself in the fascinating realm of Artificial Intelligence.
+🔹 Always eager to collaborate on captivating Automotive and Art projects.
 
 ---
 
@@ -40,9 +40,12 @@
 
 ---
 
+### 🎵 Personal Radio on Spotify
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=huvx2jl41c1rlzg8a9hrey0u4&unique={true|1|on|yes})
 
 
-Thanks for visiting! 🚀
+Thanks for visiting! 
 
 <!---
 StelleeBlazer/StelleeBlazer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
