@@ -1,11 +1,18 @@
 ![Banner](https://github.com/user-attachments/assets/4e3b0a8d-6005-4d19-98dc-526ebaf82399)
 
 
+
+
 # 👋 Greetings, I'm Nanda!  
 
 🔹 Enthralled by **iOS Development, 3D Modelling, Automotive, Photography, and Japanese Culture**—a seamless blend of technology, artistry, and heritage.  
 🔹 Currently immersing myself in the fascinating realm of **Artificial Intelligence**.  
 🔹 Eager to collaborate on captivating **Automotive and Art** projects. 
+
+
+https://github.com/user-attachments/assets/8830e76d-f069-4e66-978b-bf1a84e92bed
+
+
 
 ---
 
