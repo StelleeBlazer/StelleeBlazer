@@ -68,7 +68,7 @@ https://github.com/user-attachments/assets/81b5c66e-9d33-4ee4-bd3a-bbba16dc3c65
   <a href="https://instagram.com/nandamitsuketa">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/muhammad-rahmananda-arief-wibisono-34871433a/)">
+  <a href="https://www.linkedin.com/in/muhammad-rahmananda-arief-wibisono-34871433a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:rahmanandarief@gmail.com">
